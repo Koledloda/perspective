@@ -21,7 +21,7 @@ export function Header() {
           {/* Logo */}
           <a href="/" className="flex items-center gap-3 group">
             <img
-              src="public/perspective.png"
+              src="/perspective.png"
               alt="Логотип Перспектива"
               className="w-10 h-10 object-contain"
             />
